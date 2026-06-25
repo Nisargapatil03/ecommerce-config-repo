@@ -1,0 +1,9 @@
+company:
+  name: Ecommerce Application
+
+message: Welcome to Spring Cloud Config Server
+
+spring:
+  datasource:
+    username: root
+    password: root123
